@@ -1,3 +1,5 @@
+ [![Suwan's github stats](https://github-readme-stats.vercel.app/api?username=Grimdal032)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Linked Site
 <a href="https://ksw0627.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
